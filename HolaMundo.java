@@ -1,4 +1,4 @@
-public class HolaMundo {
+<public class HolaMundo {
         
         public HolaMundo(){
           System.out.println("\n Iniciando el constructor ...");        
